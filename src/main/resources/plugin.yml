@@ -1,0 +1,5 @@
+main: me.v1ctu.EconPlugin
+name: EconPlugin
+version: 1.0.0
+author: v1ctu
+api-version: 1.17
